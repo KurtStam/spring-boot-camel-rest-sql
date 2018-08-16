@@ -6,6 +6,7 @@ metadata:
     api.service.kubernetes.io/scheme: http
     api.service.kubernetes.io/protocol: REST
     api.service.kubernetes.io/description-path: camel-rest-sql/api-doc
+    api.service.kubernetes.io/description-language : SwaggerJSON
   labels:
     expose: "false"
 spec:
